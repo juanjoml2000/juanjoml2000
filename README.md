@@ -1,7 +1,8 @@
 # Hola! Soy Juan José Molina López 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Desarrollador%20Web%20|%20IA%20%26%20Datos&fontSize=40&fontAlignY=38&desc=Construyendo%20soluciones%20digitales%20y%20automatizando%20procesos&descAlignY=55&descAlign=50" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Web+Full+Stack;Especialista+en+IA+%26+Datos" alt="Typing" />
+  <p>Construyendo soluciones digitales y automatizando procesos</p>
 </div>
 
 ### 🛠 Sobre Mí
@@ -52,10 +53,7 @@ Soy **Técnico Superior en Automatización y Robótica**, con una profunda espec
 
 <div align="center">
   <a href="https://github.com/juanjoml2000">
-    <img src="https://github-readme-stats.vercel.app/api?username=juanjoml2000&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Estadísticas de Juanjo" />
-  </a>
-  <a href="https://github.com/juanjoml2000">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoml2000&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Lenguajes que utiliza Juanjo" />
+    <img src="https://streak-stats.demolab.com/?user=juanjoml2000&theme=radical&hide_border=true" alt="Estadísticas de Juanjo" />
   </a>
 </div>
 
@@ -68,3 +66,4 @@ Soy **Técnico Superior en Automatización y Robótica**, con una profunda espec
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Visita mi perfil en LinkedIn" height="40" width="40" />
   </a>
 </p>
+

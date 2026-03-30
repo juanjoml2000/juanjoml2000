@@ -27,16 +27,21 @@ Soy **Técnico Superior en Automatización y Robótica**, con una profunda espec
 
 **IA, Datos y Automatización:**
 <p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Big_Data-003B5C?style=for-the-badge&logo=apachehadoop&logoColor=white" />
-  <img src="https://img.shields.io/badge/RPAs_UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
   <img src="https://img.shields.io/badge/Data_Analysis-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/RPAs_UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
 </p>
 
 <br/>
 
 ### 🌟 Proyectos Destacados
 
-- 🎮 **[Retro Portfolio](https://github.com/juanjoml2000/Web-CV)** - Portfolio interactivo inspirado en los arcades retro. Un espacio original para presentar mis habilidades.
+- 🎮 **[Retro Portfolio Interactívo](https://web-cv-juanjo.vercel.app/)** - Portfolio interactivo inspirado en los arcades retro. Un espacio original para presentar mis habilidades.
 - 👾 **[Web-tamagotchi-hades](https://github.com/juanjoml2000/Web-tamagotchi-hades)** - Desarrollo Frontend para una mascota virtual / asistente interactivo completamente gamificado.
 - 🏆 **[Web Juego 5 Vidas](https://github.com/juanjoml2000/Web-juego-5vidas)** - Juego de cartas multijugador online con mecánicas en tiempo real, desarrollado en JavaScript.
 - 🤖 **[Bot Telegram Control PC](https://github.com/juanjoml2000/Bot-Telegram-PC-Control-xrd)** - Herramienta en Python para interactuar remotamente y administrar tareas en mi PC a través de comandos de Telegram.
@@ -46,8 +51,12 @@ Soy **Técnico Superior en Automatización y Robótica**, con una profunda espec
 ### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanjoml2000&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Estadísticas de Juanjo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoml2000&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Lenguajes que utiliza Juanjo" />
+  <a href="https://github.com/juanjoml2000">
+    <img src="https://github-readme-stats.vercel.app/api?username=juanjoml2000&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Estadísticas de Juanjo" />
+  </a>
+  <a href="https://github.com/juanjoml2000">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoml2000&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Lenguajes que utiliza Juanjo" />
+  </a>
 </div>
 
 <br/>

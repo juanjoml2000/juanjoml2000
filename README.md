@@ -1,8 +1,18 @@
 # Hola! Soy Juan José Molina López 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Web+Full+Stack;Especialista+en+IA+%26+Datos" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=600&height=100&lines=Automatizaci%C3%B3n+y+Rob%C3%B3tica;Especialista+en+IA+y+Datos;Data+Engineer;Desarrollador+Web" alt="Typing" />
   <p>Construyendo soluciones digitales y automatizando procesos</p>
+</div>
+
+<div align="center">
+  <br/>
+  <h2>🚀 ¿Buscas mi CV o quieres explorar mi trabajo?</h2>
+  <a href="https://web-cv-juanjo.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🎮_Visitar_Mi_Portfolio_/_CV_Interactivo-3399FF?style=for-the-badge&labelColor=2C2C2C" alt="CV y Portfolio Web" />
+  </a>
+  <p><i>He creado un espacio muy especial estilo arcade retro que funciona como mi CV online. <br/> Allí podrás descubrir mi trayectoria, experiencia profesional y proyectos desarrollados de forma amena y gamificada.</i></p>
+  <br/>
 </div>
 
 ### 🛠 Sobre Mí
@@ -66,4 +76,3 @@ Soy **Técnico Superior en Automatización y Robótica**, con una profunda espec
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Visita mi perfil en LinkedIn" height="40" width="40" />
   </a>
 </p>
-

@@ -72,7 +72,7 @@ Soy **Técnico Superior en Automatización y Robótica**, con una profunda espec
 ### 🔗 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-jose-molina-lopez-0b3a8b277/" target="blank">
+  <a href="https://www.linkedin.com/in/juan-jose-molina-lopez/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Visita mi perfil en LinkedIn" height="40" width="40" />
   </a>
 </p>

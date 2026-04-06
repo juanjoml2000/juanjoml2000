@@ -53,7 +53,7 @@ Soy **Técnico Superior en Automatización y Robótica**, con una profunda espec
 ### 🌟 Proyectos Destacados
 
 - 🎮 **[Retro Portfolio Interactívo](https://web-cv-juanjo.vercel.app/)** - Portfolio interactivo inspirado en los arcades retro. Un espacio original para presentar mis habilidades.
-- 👾 **Web-tamagotchi-hades** - Desarrollo Frontend para una mascota virtual / asistente interactivo completamente gamificado. (Este proyecto se encuentra en desarrollo)
+- 👾 **[Web Tarariketevi](https://web-tararik.vercel.app/)** - Desarrollo de página web para un negocio local con estilo de neones y futurista.
 - 🏆 **[Web Juego 5 Vidas](https://github.com/juanjoml2000/Web-juego-5vidas)** - Juego de cartas multijugador online con mecánicas en tiempo real, desarrollado en JavaScript.
 - 🤖 **[Bot Telegram Control PC](https://github.com/juanjoml2000/Bot-Telegram-PC-Control-xrd)** - Herramienta en Python para interactuar remotamente y administrar tareas en mi PC a través de comandos de Telegram.
 

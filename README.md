@@ -60,6 +60,9 @@
 #### 📊 Datos & Analytics
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Big_Data-003545?style=for-the-badge&logo=apachehadoop&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
@@ -69,6 +72,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -79,7 +83,7 @@
 | Proyecto | Descripción | Tecnología |
 |:---------|-------------|------------|
 | 🎮 **[Retro Portfolio Interactivo](https://web-cv-juanjo.vercel.app/)** | Portfolio gamificado estilo arcade retro con CV online | Next.js, React, TypeScript |
-| 👾 **[Web Tarariketevi](https://web-tararik.vercel.app/)** | Página web para negocio local con diseño neon/futurista | HTML, CSS, JavaScript |
+| 📊 **[TechTrack Analytics](https://github.com/juanjoml2000/techtrack-analytics)** | Pipeline ETL y dashboard interactivo para el análisis histórico de precios de hardware | Python, Streamlit, PostgreSQL, Docker |
 | 🏆 **[Web Juego 5 Vidas](https://github.com/juanjoml2000/Web-juego-5vidas)** | Juego de cartas multijugador online con mecánicas en tiempo real | JavaScript, WebSocket |
 | 🤖 **[Bot Telegram Control PC](https://github.com/juanjoml2000/Bot-Telegram-PC-Control-xrd)** | Control remoto y administración de PC vía comandos de Telegram | Python, Telegram API |
 

@@ -1,7 +1,7 @@
 # Hola! Soy Juan José Molina López 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&height=100&lines=Automatizaci%C3%B3n+y+Rob%C3%B3tica;Especialista+en+IA+y+Datos;Data+Engineer;Desarrollador+Web" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&height=100&lines=Automatizaci%C3%B3n+y+Rob%C3%B3tica;Especialista+en+IA+y+Big+Data;Desarrollador+Web+(DAW);Analista+Funcional" alt="Typing" />
   <p>Construyendo soluciones digitales y automatizando procesos</p>
 </div>
 
@@ -10,7 +10,7 @@
 ## 🎯 Portfolio & CV
 
 <p align="center">
-  <a href="CV_Juan_Jose_Molina_Lopez_TecNo.pdf" target="_blank">
+  <a href="CV_Juan_Jose_Molina_Lopez.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-_VER_CV_EN_PDF-FF6B6B?style=for-the-badge&logo=pdf&logoColor=white" />
   </a>
   <a href="https://web-cv-juanjo.vercel.app/" target="_blank">
@@ -26,10 +26,10 @@
 
 <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 20px; border-radius: 12px; border-left: 4px solid #33CCFF;">
 
-**Técnico Superior en Automatización y Robótica** con especialización en **Inteligencia Artificial, Big Data y Desarrollo Web**. Mi perfil fusiona el mundo industrial con la programación, permitiéndome abordar problemas desde múltiples ángulos.
+**Técnico Superior en Automatización y Robótica** con especialización en **Inteligencia Artificial, Big Data y Desarrollo Web (DAW)**. Mi perfil fusiona el mundo industrial con la programación, permitiéndome abordar problemas desde múltiples perspectivas funcionales.
 
-- 🔭 Actualmente trabajo como **Analista de Proyectos** - Desarrollo de soluciones, análisis de datos y automatización
-- 🎓 Formado en mecánica + robótica industrial, especializándome en tecnologías del Dato e IA
+- 🔭 Actualmente trabajo como **Analista Funcional / Analista de Proyectos** en Bytesnventures — Análisis de requerimientos, automatización de procesos y desarrollo de soluciones
+- 🎓 Cursando **DAW** en IES Al-Ándalus | Especialización en IA y Big Data | Robótica Industrial
 - 🌱 Siempre aprendiendo y creando side-projects (minijuegos, automatizaciones, bots)
 
 </div>
@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
@@ -74,6 +76,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>
 
 ---
